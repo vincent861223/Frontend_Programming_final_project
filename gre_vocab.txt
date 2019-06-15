@@ -1,0 +1,532 @@
+[
+  {
+    "id": 0,
+    "word": "forbear",
+    "definition": "v.忍耐，抑制"
+  },
+  {
+    "id": 1,
+    "word": "boorish",
+    "definition": "粗野的，粗魯的 (boo用噓聲記)"
+  },
+  {
+    "id": 2,
+    "word": "impetuous",
+    "definition": "性急的，魯莽的，衝動的 (im加強語氣+pet追求>>魯莽的，衝動的) (字根：pet=seek eg.repeat, compete)"
+  },
+  {
+    "id": 3,
+    "word": "impetus",
+    "definition": "n.推動力，刺激(im加強語氣+pet追求)"
+  },
+  {
+    "id": 4,
+    "word": "petulant",
+    "definition": "暴躁的，壞脾氣的"
+  },
+  {
+    "id": 5,
+    "word": "peevish",
+    "definition": "易怒的，乖戾的，好抱怨的"
+  },
+  {
+    "id": 6,
+    "word": "propitious",
+    "definition": "有利的 (字根：pet=seek eg.repeat, compete)"
+  },
+  {
+    "id": 7,
+    "word": "relinquish",
+    "definition": "v.放棄，廢除(字根：linqu離開)"
+  },
+  {
+    "id": 8,
+    "word": "opportune",
+    "definition": "恰好的，適宜的"
+  },
+  {
+    "id": 9,
+    "word": "purport",
+    "definition": "n.聲稱，意旨，標榜 (pur=pro+port拿，運>>摘要，主旨寫在文章之前>>聲稱，意旨，主旨)"
+  },
+  {
+    "id": 10,
+    "word": "unflappability",
+    "definition": "n.鎮靜(flap拍翅)"
+  },
+  {
+    "id": 11,
+    "word": "unflappable",
+    "definition": "鎮靜的"
+  },
+  {
+    "id": 12,
+    "word": "supercilious",
+    "definition": "高傲的，目中無人的(super超+cil眉)"
+  },
+  {
+    "id": 13,
+    "word": "histrionic",
+    "definition": "矯揉造作的，戲劇的"
+  },
+  {
+    "id": 14,
+    "word": "contentious",
+    "definition": "好辯的，善爭吵的 (字根tend, tens, tent 拉，伸 eg.延伸)"
+  },
+  {
+    "id": 15,
+    "word": "contend",
+    "definition": "v.競爭，主張"
+  },
+  {
+    "id": 16,
+    "word": "distend",
+    "definition": "v.使膨脹，膨大 (dis分開+tend伸張>>四面伸張>>膨脹)"
+  },
+  {
+    "id": 17,
+    "word": "portend",
+    "definition": "v.預示，預先警告"
+  },
+  {
+    "id": 18,
+    "word": "accent",
+    "definition": "v.強調"
+  },
+  {
+    "id": 19,
+    "word": "generic",
+    "definition": "通稱的"
+  },
+  {
+    "id": 20,
+    "word": "inclusive",
+    "definition": "通稱的(包含的)"
+  },
+  {
+    "id": 21,
+    "word": "annotate",
+    "definition": "v.註解"
+  },
+  {
+    "id": 22,
+    "word": "connotation",
+    "definition": "n.含蓄，言外之意"
+  },
+  {
+    "id": 23,
+    "word": "notch",
+    "definition": "刻痕，槽口，凹口"
+  },
+  {
+    "id": 24,
+    "word": "notoriety",
+    "definition": "n.惡名昭彰，聲名狼藉 a.notorious"
+  },
+  {
+    "id": 25,
+    "word": "genealogy",
+    "definition": "家譜，宗譜(字根gene基因 eg.genetic遺傳的，起源地)"
+  },
+  {
+    "id": 26,
+    "word": "genesis",
+    "definition": "創始，起源"
+  },
+  {
+    "id": 27,
+    "word": "genome",
+    "definition": "基因組，染色體組"
+  },
+  {
+    "id": 28,
+    "word": "ambivalent",
+    "definition": "矛盾的(ambi雙+val力量>>矛盾)(val, vail力量 eg.prevail戰勝，盛行)"
+  },
+  {
+    "id": 29,
+    "word": "prevalent",
+    "definition": "普遍的，盛行的(val, vail力量 eg.prevail戰勝，盛行)"
+  },
+  {
+    "id": 30,
+    "word": "anachronistic",
+    "definition": "時代錯誤的，過時的(ana不，錯誤+chron時間)"
+  },
+  {
+    "id": 31,
+    "word": "chronic",
+    "definition": "慢性的，長期的 eg.chronic illness慢性病"
+  },
+  {
+    "id": 32,
+    "word": "chronological",
+    "definition": "依時間前後排列而記載的"
+  },
+  {
+    "id": 33,
+    "word": "synchronize",
+    "definition": "v.同步，同時發生"
+  },
+  {
+    "id": 34,
+    "word": "apostle",
+    "definition": "n.支持者，十二使徒(字根sta, st站 eg.obstacle 障礙，干擾)"
+  },
+  {
+    "id": 35,
+    "word": "apostasy",
+    "definition": "n.背教，脫黨，變節(apo遠+sta站+sy>>站得遠，離得遠)(字根sta, st站)"
+  },
+  {
+    "id": 36,
+    "word": "emulate",
+    "definition": "v.效法、模仿 (字根：imit模仿)"
+  },
+  {
+    "id": 37,
+    "word": "counterpart",
+    "definition": "n.對等，對口"
+  },
+  {
+    "id": 38,
+    "word": "matriarchy",
+    "definition": "母權制，母系社會 (字根：arch, archy統治)"
+  },
+  {
+    "id": 39,
+    "word": "monarch",
+    "definition": "n.君主，帝王(mon單個+arch統治)"
+  },
+  {
+    "id": 40,
+    "word": "patriarchal",
+    "definition": "家長的，父權制的"
+  },
+  {
+    "id": 41,
+    "word": "ravenous",
+    "definition": "飢渴的 (字源：rape)"
+  },
+  {
+    "id": 42,
+    "word": "contempt",
+    "definition": "輕視，蔑視"
+  },
+  {
+    "id": 43,
+    "word": "contemptuous",
+    "definition": "輕視的，蔑視的"
+  },
+  {
+    "id": 44,
+    "word": "acquisitive",
+    "definition": "貪得無厭的"
+  },
+  {
+    "id": 45,
+    "word": "disdain",
+    "definition": "n.輕視，蔑視(dis=against+dain高貴的>>使不高貴>>輕蔑)(字根dain, dign高貴的 eg.dignity尊嚴，莊嚴)"
+  },
+  {
+    "id": 46,
+    "word": "indignant",
+    "definition": "憤怒的，憤慨的"
+  },
+  {
+    "id": 47,
+    "word": "eschew",
+    "definition": "v.避開"
+  },
+  {
+    "id": 48,
+    "word": "aggrandize",
+    "definition": "v.加大，強化"
+  },
+  {
+    "id": 49,
+    "word": "grandiloquence",
+    "definition": "n.豪言壯語，跨大之言(grand大+i(SE)+liqu說+ence)"
+  },
+  {
+    "id": 50,
+    "word": "grandiose",
+    "definition": "a.宏偉的，跨大的"
+  },
+  {
+    "id": 51,
+    "word": "verbose",
+    "definition": "囉嗦的，冗長的"
+  },
+  {
+    "id": 52,
+    "word": "prolix",
+    "definition": "囉嗦的"
+  },
+  {
+    "id": 53,
+    "word": "superfluous",
+    "definition": "多餘的，過剩的"
+  },
+  {
+    "id": 54,
+    "word": "vernacular",
+    "definition": "n.白話，口語"
+  },
+  {
+    "id": 55,
+    "word": "approbation",
+    "definition": "n.稱讚，認可，批准"
+  },
+  {
+    "id": 56,
+    "word": "disapprobation",
+    "definition": "n.不認可"
+  },
+  {
+    "id": 57,
+    "word": "probity",
+    "definition": "n.誠實，廉潔"
+  },
+  {
+    "id": 58,
+    "word": "imperturbability",
+    "definition": "n.沉著"
+  },
+  {
+    "id": 59,
+    "word": "glut",
+    "definition": "過多，過剩(嗝)"
+  },
+  {
+    "id": 60,
+    "word": "hodgepodge",
+    "definition": "n. 混淆、雜燴"
+  },
+  {
+    "id": 61,
+    "word": "surfeit",
+    "definition": "n.太多(sur超+feit做)"
+  },
+  {
+    "id": 62,
+    "word": "modicum",
+    "definition": "n.些許(摸著看)"
+  },
+  {
+    "id": 63,
+    "word": "dearth",
+    "definition": "n.少"
+  },
+  {
+    "id": 64,
+    "word": "counterfeit",
+    "definition": "(a.n.)偽造，仿造(counter相反+feit做)(字根：feit=fact做)"
+  },
+  {
+    "id": 65,
+    "word": "forfeit",
+    "definition": "喪失，被罰沒收(音讀「作廢」)"
+  },
+  {
+    "id": 66,
+    "word": "exactitude",
+    "definition": "精確"
+  },
+  {
+    "id": 67,
+    "word": "meticulousness",
+    "definition": "精準"
+  },
+  {
+    "id": 68,
+    "word": "meticulous",
+    "definition": "小心翼翼的，一絲不苟的"
+  },
+  {
+    "id": 69,
+    "word": "eminence",
+    "definition": "n.卓越，顯赫，著名 (字根：min突出)"
+  },
+  {
+    "id": 70,
+    "word": "imminent",
+    "definition": "即將發生的，迫近的"
+  },
+  {
+    "id": 71,
+    "word": "preeminent",
+    "definition": "卓越的，顯著的"
+  },
+  {
+    "id": 72,
+    "word": "prominent",
+    "definition": "凸出的，顯著的，卓越的"
+  },
+  {
+    "id": 73,
+    "word": "abstain",
+    "definition": "v.禁絕，放棄 (abs不+tain抓住>>不抓住，放棄)"
+  },
+  {
+    "id": 74,
+    "word": "pertain",
+    "definition": "v.屬於，關於"
+  },
+  {
+    "id": 75,
+    "word": "impertinent",
+    "definition": "粗魯無禮的，不切題的，不中肯的"
+  },
+  {
+    "id": 76,
+    "word": "insolent",
+    "definition": "粗魯的，無恥的，輕蔑的"
+  },
+  {
+    "id": 77,
+    "word": "impudent",
+    "definition": "極不禮貌的，無恥的"
+  },
+  {
+    "id": 78,
+    "word": "tenable",
+    "definition": "站得住腳的，經得起批判的"
+  },
+  {
+    "id": 79,
+    "word": "tenacious",
+    "definition": "堅持的，頑強的，固執的"
+  },
+  {
+    "id": 80,
+    "word": "exacting",
+    "definition": "嚴格的，嚴厲的"
+  },
+  {
+    "id": 81,
+    "word": "elegy",
+    "definition": "n.輓歌"
+  },
+  {
+    "id": 82,
+    "word": "requiem",
+    "definition": "安魂曲"
+  },
+  {
+    "id": 83,
+    "word": "diminish",
+    "definition": "v.減少，消失"
+  },
+  {
+    "id": 84,
+    "word": "impervious",
+    "definition": "不受影響的，無度於衷的"
+  },
+  {
+    "id": 85,
+    "word": "obviate",
+    "definition": "v.排除，消除(困難)"
+  },
+  {
+    "id": 86,
+    "word": "nonviable",
+    "definition": "無法生存的"
+  },
+  {
+    "id": 87,
+    "word": "disarray",
+    "definition": "n.雜亂"
+  },
+  {
+    "id": 88,
+    "word": "faultlessness",
+    "definition": "n.無錯誤，完美"
+  },
+  {
+    "id": 89,
+    "word": "erudite",
+    "definition": "博學的 (e出+rud無知+ite>>走出無知)"
+  },
+  {
+    "id": 90,
+    "word": "rudimentary",
+    "definition": "基本的，初步的"
+  },
+  {
+    "id": 91,
+    "word": "salutary",
+    "definition": "有益的，有益健康的 (字根：sal健康>>salt以前認為鹽巴很健康)"
+  },
+  {
+    "id": 92,
+    "word": "salubrious",
+    "definition": "有益健康的"
+  },
+  {
+    "id": 93,
+    "word": "proscribe",
+    "definition": "禁止，剝奪...的公權，放逐"
+  },
+  {
+    "id": 94,
+    "word": "beget",
+    "definition": "v.造成，產生"
+  },
+  {
+    "id": 95,
+    "word": "encumber",
+    "definition": "v.妨礙，拖累"
+  },
+  {
+    "id": 96,
+    "word": "incumbent",
+    "definition": "負有職責的，義不容辭的，現任的"
+  },
+  {
+    "id": 97,
+    "word": "succumb",
+    "definition": "v.屈從，死亡"
+  },
+  {
+    "id": 98,
+    "word": "abrupt",
+    "definition": "突然的，意外的，唐突的 (字根：rupt斷，破裂 eg.bankrupt)"
+  },
+  {
+    "id": 99,
+    "word": "disrupt",
+    "definition": "v.使分裂，使瓦解"
+  },
+  {
+    "id": 100,
+    "word": "arcane",
+    "definition": "祕密的，深奧難懂的(啊看啊，啊幹)"
+  },
+  {
+    "id": 101,
+    "word": "precursor",
+    "definition": "先驅，先兆"
+  },
+  {
+    "id": 102,
+    "word": "amendable",
+    "definition": "肯順從的，願服從的(a=ad使+men威脅>>被威脅，必須服從)(字根：men=threat eg.menace)"
+  },
+  {
+    "id": 103,
+    "word": "demean",
+    "definition": "v.貶低，貶損"
+  },
+  {
+    "id": 104,
+    "word": "demeanor",
+    "definition": "n.舉止，行為，風度"
+  },
+  {
+    "id": 105,
+    "word": "menacing",
+    "definition": "威脅的，不祥的(字根：men=threat eg.menace)"
+  }
+]

@@ -1,29 +1,13 @@
-# final_project
+# 前端程式設計 Final Project -- Flash cards App
 
-## Project setup
-```
-npm install
-```
+## 主題簡介
+因為我要準備考GRE考試，所以需要背GRE的單字。而現今許多背GRE單字的程式都已經內建一個固定的單字庫，而不能自己新增需要的單字，因此我決定利用這次期末作業的機會來做一個屬於自己的背單字網頁，督促自己背單字。
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 如何使用我的網站
+我的網站主要分為三個區域，也就是畫面最上方的Flash card, About, 以及Vocabulary。點選Vocabulary可以進入Vocabulary區，這裡面包含了目前在單字庫裡面的所有單字。可以勾選單字旁邊的小框框選取單字，並一次從單字庫裡面刪除。點選Add vocabulary可以新增單字到單字庫內。點選flash cards可以進入flash cards區，這裡的flash cards是透過單字庫裡面的單字所render出來的，而點選flash card中的show/hide definition 可以顯示或隱藏單字解釋，若背完一個單字時可以按下memorized按鈕來隱藏這個flash card。而為了增加一點變化性，可以點選上方的shuffle鍵來隨機排序這些flash cards。
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 我做了什麼？用了什麼技術？
+喔，我做的事情可多囉。首先當我想好主題之後我大概設計了一下我的Flash card的大略長相，並決定要用vue.js來實作。但是呢，我一開始根本連vue.js是什麼都不知道，於是我就開始上Youtube看教學影片，但是在看的過程越看就越困惑，因為這跟我一開始學的javascript長得不太一樣，也不太懂為什麼要用這樣奇怪的寫法。於是我又到vue.js的官網，把vue.js官網上的document從頭看過一遍，這下我才了解整個vue.js到底在幹嘛。vue.js這樣的框架可以很有組織性的管理網頁上的每一個component，就像是我們自己定義一個DOM一樣，未來這些已經做好的component也可以直結拿來使用，這也省去了javascript要一直選取某一個DOM的麻煩。在我的設計中，我將一個flash card包成一個component，再用一個card stack把很多flash card包起來。而網頁中的的三個區域則是使用三個不同的vue將它分開，並用router來將網頁導向不同的vue，這樣我就能每次都專心的設計一個介面。單字庫裡面的單字則是我從網路上某一篇文章複製的60個單字，因為網路上複製下來的形式並不是json格式，因此我還用python寫了一個程式來將我複製下來的單字轉換成json檔。而這個gre單字json檔則會在vue app一開始讀入，並當成參數傳給每個分頁的各個component。
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 特色、亮點
+這個網頁最大的特點就是畫面簡潔，沒有太多虛無浮誇的設計，以及使用者容易使用。除此之外他最厲害的地方就是他非常實用，可以用來背單字，不但可以讓你GRE考高分，更能讓你拓展國際視野，征服宇宙。另一個最大的特點就是這個網頁是我從頭到尾自己設計的網頁，沒有參考別人的教學或是拿別人的code來改之類的。我可以說是從無到有，從完全不知道vue.js是什麼，到自己設計component、調css樣式，遇到錯誤就一直google，最後產出一完整的flash card app。因此這個網頁可以說是我的心血結晶啊，以及對這門課最大的收穫，所以看在我這們認真的份上請兩位帥帥的助教給我好分數～～～

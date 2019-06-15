@@ -1,12 +1,39 @@
 <template>
   <div id="app">
     <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/">Flash Card</router-link> |
+      <router-link to="/about">About</router-link> |
+      <router-link to="/vocabulary">Vocaulary</router-link> 
     </div>
-    <router-view/>
+    <router-view :vocabulary=vocabulary> </router-view>
   </div>
 </template>
+
+<script>
+import json from '../gre_vocab.json'
+import Vue from 'vue'
+import BootstrapVue from 'bootstrap-vue'
+import 'bootstrap/dist/css/bootstrap.css'
+import 'bootstrap-vue/dist/bootstrap-vue.css'
+
+Vue.use(BootstrapVue)
+export default {
+  name: 'flashCard',
+  components: {
+    
+  },
+  data() {
+    return {
+      vocabulary: json
+    }
+  },
+  methods: {
+    removeCard: function(index){
+      Vue.delete(this.vocabulary, index)
+    }
+  }
+}
+</script>
 
 <style>
 #app {
